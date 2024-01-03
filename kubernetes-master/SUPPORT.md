@@ -27,3 +27,6 @@ people offer support.
 ### Forum
 
 * [Kubernetes Official Forum](https://discuss.kubernetes.io)
+
+please be sure about this
+oo teri ma ki aakh
